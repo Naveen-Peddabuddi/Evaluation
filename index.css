@@ -1,0 +1,14 @@
+#navbar {
+    display: flex;
+    width: 95%;
+    height: 100px;
+    border: 1px solid black;
+    margin: auto;
+   justify-content: right;
+   background-color: teal;
+}
+#navbar > h3 {
+    margin-left: 30px;
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
